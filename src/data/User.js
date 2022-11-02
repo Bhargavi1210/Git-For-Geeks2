@@ -157,15 +157,13 @@ const Users = {
       portfolio: "",
     },
   },
-  "temp10": {
-    name: "Temp 10",
-    branch: "IT",
+  "hellopeople": {
+    name: "Bhargavi Vaidya",
+    branch: "AI and DS",
     description: "Exploring | Learning",
     links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
-      portfolio: "",
+      github: "https://github.com/Bhargavi1210",
+      
     },
   },
 };
